@@ -1,5 +1,10 @@
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Gottox&url=https://github.com/Gottox/node-pdfutils&title=node-pdfutils&language=&tags=github&category=software)
 
+Important Note!!!
+=================
+I'm forking this code for some purpose to make it work on my apps.
+
+
 PDF Utils for node
 ==================
 
