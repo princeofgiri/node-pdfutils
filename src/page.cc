@@ -11,6 +11,7 @@
 #include "document.h"
 #include "formats.h"
 #include "link.h"
+#include "string.h"
 
 using namespace v8;
 using namespace node;
